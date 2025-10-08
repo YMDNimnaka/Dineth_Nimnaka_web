@@ -1,0 +1,113 @@
+#navbar{
+    background-color: #D7EEF4;
+    height: 30px;
+}
+
+
+
+
+ #navbar{    ;
+            background-color: #D7EEF4;
+            height: 70px;
+            width: 100%;     }
+       
+            body{                   /* Margin for the whole page*/
+            margin: 0px;
+        }
+        #page * {                            /* mona httkd mnda*/
+            position: relative; }
+
+        .navc{
+            top: 10px;
+           
+        }
+       
+   /* Button style */
+.navc {
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 20px;                         /* Rounded corners */
+    background: linear-gradient(135deg, #34495E, #34363c); /* Modern gradient */
+    color: white;
+    text-decoration: none;                        /* Remove underline */
+    font-weight: bold;
+    font-size: 16px;
+    transition: all 0.4s ease;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);      /* Subtle shadow */
+    text-align: center;
+}
+
+/* Hover effect */
+.navc:hover {
+    transform: translateY(-3px);                  /* Lift effect */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    background: linear-gradient(135deg, #0d46d7, #160880); /* Inverted gradient */
+}
+
+        #navbar_contact{
+            left: 50px;
+        }
+
+        #navbar_About{
+           
+            left: 55%;
+        }
+        #navbar_projects{
+            
+            left: 60%;}
+        #navbar_Blogs{
+           
+            left:65% ;
+        }
+        
+ #myname{
+
+     width: 478;
+     height: 85;
+    font-size: 40px;
+    background-color:#D7EEF4;
+position: relative;
+top: 100px;
+left: 200px;
+ }
+
+ #myname2{
+    width: 600px;
+    height: 85;
+    font-size: 40px;
+    background-color:#D7EEF4;
+    position: relative;
+    top: 45px;
+    left: 200px;
+    font-family:inter ;
+    color: #0f07a8;
+    
+ }
+
+ #aboutme1{
+   
+    width: 600px;
+    height: 248;
+    font-size: 40px;
+    background-color: #D7EEF4;
+    position: relative;
+    top: 20px;
+    left: 200px;
+    color: #000001;
+    font-size: 25;
+ }
+
+ #image{
+
+    width: 500px;
+    height: 400px;
+    
+    background-color:#D7EEF4;
+    position: relative;
+    top: -550px;
+    left: 780px;
+    color: #2d0f88;
+    text-align: center;
+
+
+ }
